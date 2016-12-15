@@ -1,0 +1,12 @@
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.Cache
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\Ariel\Desktop\JoKenPo-Oficial\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
+C:\Users\Ariel\Desktop\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Users\Ariel\Desktop\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Users\Ariel\Desktop\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb
